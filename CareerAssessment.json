@@ -1,0 +1,34 @@
+{
+  "careers": [
+    {
+      "id": "d64f",
+      "title": "Wordpress  Web Developer",
+      "description": "A wordpress web developer is.",
+      "salary": "2000-3000"
+    },
+    {
+      "title": "Web Master",
+      "description": "A webmaster is the administrator of a website.",
+      "salary": "2000-3000",
+      "id": "4845"
+    },
+    {
+      "title": "WebMaster",
+      "description": "A webmaster is the administrator of a website.",
+      "salary": "50000-10000",
+      "id": "17df"
+    },
+    {
+      "id": "68c5",
+      "title": "WebMaster",
+      "description": "A webmaster is the administrator of a website.",
+      "salary": "2000-3000"
+    },
+    {
+      "id": "6b44",
+      "title": "WebMaster",
+      "description": "A webmaster is the administrator of a website.",
+      "salary": "2000-3000"
+    }
+  ]
+}
