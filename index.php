@@ -1,1 +1,1 @@
-<?php include("index.js") ?>
+<?php include("CareerAssessment.json") ?>
