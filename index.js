@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 // Endpoint to serve JSON data
 app.get('/data', (req, res) => {
-  fs.readFile('data.json', 'utf8', (err, data) => {
+  fs.readFile('CareerAssessment.json', 'utf8', (err, data) => {
     if (err) {
       console.error(err);
       res.status(500).send('Error reading data file');
